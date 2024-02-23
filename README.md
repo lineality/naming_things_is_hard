@@ -8,7 +8,7 @@ Rules for Clearer Naming
 4. Extreme shortness must not be a goal in and of itself. Making a name extremely short simply for the sake of aesthetics of ODC at the expense of everything else in the project is a catastrophic proliferation of liabilities.
 5. The goal is for the name to clearly communicate and not miscommunicate
 6. If you are referig to something unique, do not use general terms or general catagories as your specific unique name, unless there is an unavoidable exception. Where you are refering to a standardized non-unique variable (see below) still try to be clear.
-#### (Rule of thumb, any reserved word in a normal programming language should NOT be a variable name)
+#### (Rule of thumb, any reserved word in a normal programming language should NOT be a variable name.)
 - Unique Names: Do not use ->
   - string (or any shorter abreviation of "string")
   - dictionary or dict
