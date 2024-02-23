@@ -9,8 +9,8 @@ Rules for Clearer Naming
 5. The goal is for the name to clearly communicate and not miscommunicate
 6. If you are referig to something unique, do not use general terms or general catagories as your specific unique name, unless there is an unavoidable exception. Where you are refering to a standardized non-unique variable (see below) still try to be clear.
 - Unique Names: Do not use ->
-  - string
-  - dictionary
+  - string (or any shorter abreviation of "string")
+  - dictionary or dict
   - code
   - type
   - module
