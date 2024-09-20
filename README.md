@@ -2,8 +2,8 @@
 Rules for Clearer Naming
 
 
-1. Do not use the same exact name to refer to multiple things, including: do no not re-use an existing name.
-2. Do not use multiple different names to refer to the same thing.
+1. Do not give two things one name: Do not use the same exact name to refer to multiple things, including: do no not re-use an existing name.
+2. Do not give one thing two name: Do not use multiple different names to refer to the same thing.
 3. Do not use a misleading name, such that someone who sees the name will confidently misunderstand and believe that the name refers to something other than what it actually refers to.
 4. Extreme shortness must not be a goal in and of itself. Making a name extremely short simply for the sake of aesthetics of ODC at the expense of everything else in the project is a catastrophic proliferation of liabilities.
 5. The goal is for the name to clearly communicate and not miscommunicate
